@@ -1,0 +1,1 @@
+jogo "advinhe o número" - Game em que o usuário tenta adivinhar um número gerado aleatoriamente entre 1 e 100. O usuário insere seu palpite usando um formulário e o código JavaScript verifica o palpite em relação ao número de destino e exibe uma mensagem indicando se o palpite é muito alto, muito baixo ou correto.

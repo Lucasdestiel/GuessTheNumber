@@ -1,0 +1,29 @@
+body {
+  background-color: #911010;
+  text-align: center;
+  justify-content: center;
+}
+
+#game {
+  background-color: #ffffff;
+  border: 1px solid black;
+  display: inline-block;
+  margin: 20vh auto;
+  padding: 20px;
+  text-align: left;
+  border-radius: 2vh;
+}
+
+#submit {
+  background-color: #911010;
+  border: 1px solid #000000;
+  color: #ffffff;
+  cursor: pointer;
+  margin-left: 10px;
+  padding: 10px 20px;
+  border-radius: 2vh;
+}
+
+#submit:active {
+  background-color: #911010;
+}
